@@ -1,0 +1,13 @@
+.col {
+    background-color: lightblue;
+    outline: 1px solid red;
+}
+
+.hero {
+    background-image: url(../img/home-bg.jpg) ;
+    height: 80vh;
+}
+
+.hero span {
+    
+}
